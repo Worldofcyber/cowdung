@@ -22,7 +22,7 @@ html {
    HEADER & NAVIGATION - Soft Leaf Green
    ======================================== */
 header {
-    background: #4b830b;
+    background: #A8C686;
     color: white;
     padding: 1rem 0;
     position: sticky;
@@ -63,19 +63,19 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #4b830b;
+    background-color: #B9D8A0;
     color: white;
 }
 
 nav a.active-link {
-    background-color: #77d40b;
+    background-color: #B9D8A0;
 }
 
 /* ========================================
    HERO SECTION - Soft Leaf Green
    ======================================== */
 .hero {
-    background: linear-gradient(135deg, #4b830b 0%, #4b830b 100%);
+    background: linear-gradient(135deg, #A8C686 0%, #98B676 100%);
     color: white;
     text-align: center;
     padding: 6rem 2rem;
@@ -107,7 +107,7 @@ nav a.active-link {
 }
 
 .cta-button:hover {
-    background: #77d40b;
+    background: #B9D8A0;
     transform: translateY(-3px);
     box-shadow: 0 6px 20px rgba(185, 216, 160, 0.5);
 }
@@ -143,14 +143,14 @@ nav a.active-link {
    TYPOGRAPHY
    ======================================== */
 h2 {
-    color: #77d40b;
+    color: #A8C686;
     font-size: 2.5rem;
     margin-bottom: 2rem;
     text-align: center;
 }
 
 h3 {
-    color: #77d40b;
+    color: #A8C686;
     font-size: 1.5rem;
 }
 
@@ -179,13 +179,13 @@ h3 {
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 5px 20px rgba(168, 198, 134, 0.2);
-    border: 3px solid #77d40b;
+    border: 3px solid #A8C686;
     transition: transform 0.3s ease;
 }
 
 .product-box:hover {
     transform: translateY(-10px);
-    border-color: #77d40b;
+    border-color: #B9D8A0;
 }
 
 .product-icon {
@@ -194,7 +194,7 @@ h3 {
 }
 
 .product-box h3 {
-    color: #77d40b;
+    color: #A8C686;
     margin-bottom: 0.5rem;
 }
 
@@ -217,7 +217,7 @@ h3 {
     padding: 2rem;
     border-radius: 20px;
     box-shadow: 0 8px 25px rgba(168, 198, 134, 0.2);
-    border: 2px solid #77d40b;
+    border: 2px solid #A8C686;
 }
 
 .card-header {
@@ -236,7 +236,7 @@ h3 {
 }
 
 .product-card h3 {
-    color: #77d40b;
+    color: #A8C686;
     font-size: 1.8rem;
     margin-bottom: 1rem;
 }
@@ -263,7 +263,7 @@ h3 {
 
 .features-list li:before {
     content: "✓";
-    color: #77d40b;
+    color: #A8C686;
     font-weight: bold;
     font-size: 1.2rem;
     position: absolute;
@@ -286,14 +286,14 @@ h3 {
 }
 
 .contact-cta:hover {
-    background: #77d40b;
+    background: #B9D8A0;
 }
 
 /* ========================================
    BULK INFO
    ======================================== */
 .bulk-info {
-    background: #4b830b;
+    background: #A8C686;
     color: white;
     padding: 2rem;
     border-radius: 15px;
@@ -328,12 +328,12 @@ h3 {
     border-radius: 20px;
     box-shadow: 0 5px 20px rgba(168, 198, 134, 0.15);
     transition: all 0.3s ease;
-    border-top: 4px solid #77d40b;
+    border-top: 4px solid #A8C686;
 }
 
 .feature-card:hover {
     transform: translateY(-8px);
-    border-top-color: #77d40b;
+    border-top-color: #B9D8A0;
     box-shadow: 0 8px 30px rgba(168, 198, 134, 0.25);
 }
 
@@ -343,7 +343,7 @@ h3 {
 }
 
 .feature-card h3 {
-    color: #77d40b;
+    color: #A8C686;
     margin-bottom: 1rem;
 }
 
@@ -378,7 +378,7 @@ h3 {
 }
 
 .benefit-card h3 {
-    color: #77d40b;
+    color: #A8C686;
     margin-bottom: 1.5rem;
 }
 
@@ -413,7 +413,7 @@ h3 {
 }
 
 .stat-card {
-    background: #77d40b;
+    background: #A8C686;
     color: white;
     padding: 2.5rem 2rem;
     border-radius: 20px;
@@ -423,7 +423,7 @@ h3 {
 
 .stat-card:hover {
     transform: translateY(-5px);
-    background: #77d40b;
+    background: #B9D8A0;
 }
 
 .stat-number {
@@ -446,7 +446,7 @@ h3 {
     padding: 3rem;
     border-radius: 20px;
     box-shadow: 0 8px 30px rgba(168, 198, 134, 0.2);
-    border: 2px solid #77d40b;
+    border: 2px solid #A8C686;
 }
 
 .form-row {
@@ -462,7 +462,7 @@ h3 {
 .form-group label {
     display: block;
     margin-bottom: 0.5rem;
-    color: #77d40b;
+    color: #A8C686;
     font-weight: 600;
 }
 
@@ -484,7 +484,7 @@ h3 {
 .form-group textarea:focus,
 .form-group select:focus {
     outline: none;
-    border-color: #77d40b;
+    border-color: #A8C686;
     box-shadow: 0 0 0 3px rgba(168, 198, 134, 0.2);
 }
 
@@ -494,7 +494,7 @@ h3 {
 }
 
 .submit-btn {
-    background: #77d40b;
+    background: #A8C686;
     color: white;
     padding: 1rem 3rem;
     border: none;
@@ -508,7 +508,7 @@ h3 {
 }
 
 .submit-btn:hover {
-    background: #77d40b;
+    background: #B9D8A0;
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(185, 216, 160, 0.4);
 }
@@ -529,7 +529,7 @@ h3 {
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 5px 20px rgba(168, 198, 134, 0.2);
-    border-top: 4px solid #4b830b;
+    border-top: 4px solid #A8C686;
     transition: transform 0.3s ease;
 }
 
@@ -543,7 +543,7 @@ h3 {
 }
 
 .info-card h3 {
-    color: #4b830b;
+    color: #A8C686;
     margin-bottom: 1rem;
 }
 
@@ -559,10 +559,161 @@ h3 {
 }
 
 /* ========================================
+   BLOG SECTION
+   ======================================== */
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.blog-card {
+    background: #F5E6CA;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(168, 198, 134, 0.15);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.blog-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(168, 198, 134, 0.25);
+    border-color: #A8C686;
+}
+
+.blog-image {
+    position: relative;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #A8C686 0%, #B9D8A0 100%);
+}
+
+.blog-img-placeholder {
+    font-size: 5rem;
+}
+
+.blog-category {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #E2A76F;
+    color: white;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+.blog-content {
+    padding: 1.5rem;
+}
+
+.blog-content h3 {
+    color: #A8C686;
+    font-size: 1.4rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.4;
+}
+
+.blog-date {
+    color: #E2A76F;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.blog-excerpt {
+    color: #4A4A32;
+    line-height: 1.7;
+    margin-bottom: 1.2rem;
+}
+
+.read-more {
+    color: #A8C686;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+}
+
+.read-more:hover {
+    color: #B9D8A0;
+    transform: translateX(5px);
+}
+
+/* Blog CTA Section */
+.blog-cta-section {
+    background: #A8C686;
+    color: white;
+    padding: 3rem 2rem;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.blog-cta-section h3 {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.blog-cta-section p {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.newsletter-form {
+    display: flex;
+    gap: 1rem;
+    max-width: 500px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.newsletter-input {
+    flex: 1;
+    min-width: 250px;
+    padding: 1rem 1.5rem;
+    border: none;
+    border-radius: 50px;
+    font-size: 1rem;
+    background: white;
+    color: #4A4A32;
+}
+
+.newsletter-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.3);
+}
+
+.newsletter-btn {
+    padding: 1rem 2.5rem;
+    background: #E2A76F;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.newsletter-btn:hover {
+    background: #B9D8A0;
+    transform: translateY(-2px);
+}
+
+/* ========================================
    FOOTER - Soft Leaf Green
    ======================================== */
 footer {
-    background: #4b830b;
+    background: #A8C686;
     color: white;
     padding: 3rem 2rem 1rem;
     margin-top: 4rem;
@@ -605,7 +756,7 @@ footer {
 }
 
 .footer-section ul li a:hover {
-    color: #4b830b;
+    color: #B9D8A0;
 }
 
 .footer-bottom {
@@ -712,6 +863,18 @@ footer {
     
     .benefits-grid {
         grid-template-columns: 1fr;
+    }
+    
+    .blog-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .newsletter-form {
+        flex-direction: column;
+    }
+    
+    .newsletter-input {
+        min-width: 100%;
     }
 }
 
