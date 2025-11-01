@@ -283,6 +283,9 @@ document.addEventListener('DOMContentLoaded', function() {
         if (e.key === 'a' || e.key === 'A') {
             showSection('about');
         }
+        if (e.key === 'b' || e.key === 'B') {
+            showSection('blog');
+        }
         if (e.key === 'c' || e.key === 'C') {
             showSection('contact');
         }
